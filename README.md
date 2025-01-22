@@ -1,6 +1,6 @@
   Hello Sakshi Sapike Here.....
 
-👨‍💻 Aspiring Software Developer | 🚀 Tech Enthusiast | 🌱 Farmer's Roots
+👨‍💻 Aspiring Software Developer | 🚀 Tech Enthusiast 
 
 🎓 Pursuing Information Technology at Sanjivani College of Engineering, Kopargaon
 💡 Passionate about Web Development, Game Development
