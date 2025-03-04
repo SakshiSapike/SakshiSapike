@@ -34,6 +34,10 @@
   <a href="https://www.leetcode.com/sakshisapike" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+   <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
 </p>
 
 ---
