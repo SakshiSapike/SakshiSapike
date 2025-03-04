@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FWeb-Dev-Learner&psig=AOvVaw0ER_VK1T4ZI5wGysnlpFnH&ust=1741185367712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCX-JLT8IsDFQAAAAAdAAAAABAQ" width="100">
+ <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+
 </p>
 
 ---
