@@ -84,5 +84,5 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200">
+   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height= "200"/>
 </p>
