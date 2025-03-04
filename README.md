@@ -13,11 +13,11 @@
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **Fullstack Development** at GeeksforGeeks.
+- 🌱 I’m currently learning **Front-end Development**.
 - 🤝 I’m looking for help with **Web Development**.
 - 💬 Ask me about **Java, Frontend Development**.
 - 📫 How to reach me: **sakshisapike@gmail.com**.
-- 🎮 Fun fact: I'm building a **Space Shooter Game** with optimized collision detection!
+- 🎮 Fun fact: I have developed  a **Space Shooter Game** with optimized collision detection!
 
 ---
 
