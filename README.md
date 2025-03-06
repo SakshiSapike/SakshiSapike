@@ -64,7 +64,12 @@
 </p>
 
 ---
+### 🎉 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=radical" alt="Achievements" />
+</p>
 
+---
 ### 🎮 Wanna Play a Game?
 <!-- Snake Game -->
 <p align="center">
@@ -73,12 +78,7 @@
 
 ---
 
-### 🎉 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=radical" alt="Achievements" />
-</p>
 
----
 
 ### ✨ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
