@@ -112,6 +112,20 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" />
+      <br>Replit
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      <br>Anaconda
+    </td>
   </tr>
 </table>
 
