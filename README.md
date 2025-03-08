@@ -1,23 +1,26 @@
-<h1 align="center">Hello  👋, I'm Sakshi Sapike</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<h1 align="center">Hello 👋, I'm Sakshi Sapike</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakshisapike&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisapike" />
 </p>
 
 <p align="center">
  <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **Front-end Development**.
-- 🤝 I’m looking for help with **Web Development**.
-- 💬 Ask me about **Java, Frontend Development**.
+- 🌱 I’m currently learning **Full Stack Development**.
+- 🤝 I’m looking for help with **Advanced Web Development**.
+- 💬 Ask me about **Java, Frontend Development, and PHP**.
 - 📫 How to reach me: **sakshisapike@gmail.com**.
-- 🎮 Fun fact: I have developed  a **Space Shooter Game** with optimized collision detection!
+- 🎮 Fun fact: I developed a **Space Shooter Game** with optimized collision detection!
 
 ---
 
@@ -35,10 +38,9 @@
   <a href="https://www.leetcode.com/sakshisapike" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-   <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
+  </a>
 </p>
 
 ---
@@ -46,6 +48,10 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb,python,androidstudio,kotlin,linux,git,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F74C00&lines=Code+like+there's+no+bug!+😎;Turning+coffee+into+code+since+forever!+☕;Frontend+Developer+|+Java+Enthusiast+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,12 +70,14 @@
 </p>
 
 ---
+
 ### 🎉 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=radical" alt="Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=radical&margin-w=15&margin-h=15" alt="Achievements" />
 </p>
 
 ---
+
 ### 🎮 Wanna Play a Game?
 <!-- Snake Game -->
 <p align="center">
@@ -78,11 +86,11 @@
 
 ---
 
-
-
 ### ✨ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <p align="center">
-   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height= "200"/>
+   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
 </p>
+
+---
