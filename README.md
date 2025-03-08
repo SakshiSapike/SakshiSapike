@@ -64,15 +64,12 @@
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    
-  
-
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
@@ -89,12 +86,12 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
@@ -111,12 +108,12 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
       <br>IntelliJ
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" />
       <br>Replit
