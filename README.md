@@ -47,53 +47,42 @@
 
 ### 🛠️ Languages and Tools
 ### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
@@ -104,41 +93,54 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">
