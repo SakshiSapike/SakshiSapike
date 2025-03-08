@@ -113,7 +113,7 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ" />
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
       <br>IntelliJ
     </td>
     <td align="center" width="96">
