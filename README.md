@@ -46,8 +46,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-### 🛠️ Languages and Tools
-### 🛠️ Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -125,6 +123,18 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
     </td>
   </tr>
 </table>
