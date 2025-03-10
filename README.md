@@ -150,8 +150,9 @@
 
 ---
 
- <!-- Achievements Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshisapike&theme=dracula" height="150" alt="achievements stats" />
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=dracula&no-frame=false&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 ---
 
 ### 🎮 Wanna Play a Game?
