@@ -154,8 +154,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=radical&margin-w=15&margin-h=15" alt="Achievements" />
 </p>
-
-
 ---
 
 ### 🎮 Wanna Play a Game?
