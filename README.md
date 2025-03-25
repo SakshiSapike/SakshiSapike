@@ -17,8 +17,8 @@
 
 ### 🌟 About Me
 - 🌱 I’m currently learning **Full Stack Development**.
-- 🤝 I’m looking for help with **Advanced Web Development**.
-- 💬 Ask me about **Java, Frontend Development, and PHP**.
+- 🤝 I’m looking for help with **Advanced Front-end  Development**.
+- 💬 Ask me about **Java, Frontend Development**.
 - 📫 How to reach me: **sakshisapike@gmail.com**.
 - 🎮 Fun fact: I developed a **Space Shooter Game** with optimized collision detection!
 
