@@ -68,6 +68,11 @@
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
+      <br>HTML
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
