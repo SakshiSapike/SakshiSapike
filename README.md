@@ -127,10 +127,7 @@
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
       <br>C
     </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=PowerBI" width="48" height="48" alt="c" />
-      <br>C
-    </td>
+   
   </tr>
 </table>
 
