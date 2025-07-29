@@ -35,7 +35,7 @@
   <a href="https://www.hackerrank.com/sakshisapike" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="[https://www.leetcode.com/sakshisapike](https://leetcode.com/u/Sakshi_Sapike/)" target="blank">
+  <a href="https://leetcode.com/u/Sakshi_Sapike/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="blank">
