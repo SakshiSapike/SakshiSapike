@@ -1,147 +1,48 @@
-<h1 align="center">Hello 👋, I'm Sakshi Sapike</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Sakshi Sapike</h1>
+<h3 align="center">✨ A Passionate Frontend Developer & Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshisapike&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisapike" />
-</p>
-
-<p align="center">
- <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+  <img src="https://komarev.com/ghpvc/?username=sakshisapike&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **Full Stack Development**.
-- 🤝 I’m looking for help with **Advanced Front-end  Development**.
-- 💬 Ask me about **Java, Frontend Development**.
-- 📫 How to reach me: **sakshisapike@gmail.com**.
-- 🎮 Fun fact: I developed a **Space Shooter Game** with optimized collision detection!
+<img align="right" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl" />
+
+- 🔭 Currently building: **Online Charity Platform, Proactive Indicator System**
+- 🌱 Learning: **Full Stack Development (MERN + Laravel + Firebase)**
+- 🧠 Interested in: **Cybersecurity | UI/UX | Embedded Systems**
+- 💬 Ask me about: **Java, Frontend, Real-world Project Structuring**
+- 🎮 Fun Fact: I built a **Space Shooter Game** with **Quadtree-based collision detection!**
+- 📫 Reach me: **sakshisapike@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/sakshi-sapike" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.codechef.com/users/sakshisapike" target="blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/sakshisapike" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/u/Sakshi_Sapike/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+  <a href="https://linkedin.com/in/sakshi-sapike" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.codechef.com/users/sakshisapike" target="_blank"><img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/sakshisapike" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/Sakshi_Sapike/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sakshisapike" target="_blank"><img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-      <br>IntelliJ
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" />
-      <br>Replit
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
-      <br>C
-    </td>
-   
-  </tr>
-</table>
-
-
-
-
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F74C00&lines=Code+like+there's+no+bug!+😎;Turning+coffee+into+code+since+forever!+☕;Frontend+Developer+|+Java+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,kotlin,mongodb,mysql,firebase,git,github,vscode,idea,androidstudio,linux,replit,anaconda,c" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+### 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshisapike&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshisapike&theme=radical" alt="GitHub Streak" />
@@ -149,31 +50,42 @@
 
 ---
 
-### 📊 Top Languages
+### 💡 Projects & Highlights
+
+- 🔋 **Proactive Indicator System**: Safety-first embedded project for detecting mismatched turn signals.
+- 👩‍🏫 **ERP for Institutions**: Laravel-based solution for managing student data, attendance, and certificates.
+- 🍳 **Recipe Recommender**: ML-based web app offering personalized dish suggestions.
+- 🌱 **AgroEasy App**: Android app for farming product e-commerce.
+- 🎮 **Space Shooter Game**: 2D Java game using quadtree collision optimization.
+
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisapike&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=dracula&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakshisapike&theme=dracula&no-frame=false&margin-w=10" alt="GitHub Trophies"/>
-  </a>
----
-
-### 🎮 Wanna Play a Game?
-<!-- Snake Game -->
+### 🔤 Typing Animation
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=F75500&width=800&lines=Code+like+there's+no+bug!+😎;Java+Enthusiast+%7C+Frontend+Developer+🚀;UI+Lover+%7C+Learning+Cybersecurity+🛡️" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+### 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+### ✨ Quote I Live By
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <p align="center">
-   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="150" />
 </p>
 
 ---
