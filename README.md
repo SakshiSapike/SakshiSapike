@@ -10,11 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://prod.spline.design/lC5AzI8S1o-lPvhf/scene.splinecode" target="_blank">
-    <img width="370" height="290" src="https://i.imgur.com/EtkMRaD.png" alt="Spline 3D Preview" />
-  </a>
+ <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 </p>
-
 
 ---
 
@@ -179,4 +176,3 @@
    <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
 </p>
 
----
