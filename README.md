@@ -12,6 +12,7 @@
 <p align="center">
  <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 </p>
+<p align="center">
 
 ---
 
@@ -23,6 +24,7 @@
 - 🎮 Fun fact: I developed a *Space Shooter Game* with optimized collision detection!
 
 ---
+<p align="center">
 
 ### 🌐 Connect with Me
 <p align="center">
