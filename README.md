@@ -150,19 +150,23 @@
 
 <br/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=SakshiSapike&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"
-    width="48%"
-  />
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-salesp07.vercel.app/api?username=SakshiSapike&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"
+        width="420"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SakshiSapike&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&hide_border=true"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SakshiSapike&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<br/>
 
 ---
 
