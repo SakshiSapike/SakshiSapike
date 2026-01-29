@@ -164,6 +164,10 @@
 
 <br/>
 
+---
+
+### 📊 Top Languages
+
 <p align="center">
   <img 
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SakshiSapike&hide=HTML&langs_count=8&layout=compact&title_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&hide_border=true"
@@ -171,13 +175,6 @@
   />
 </p>
 
-
----
-
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisapike&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
