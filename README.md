@@ -142,10 +142,35 @@
 ---
 
 ### 🔥 GitHub Stats
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  My GitHub Stats
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshisapike&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshisapike&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=SakshiSapike&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"
+    width="48%"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SakshiSapike&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&hide_border=true"
+    width="48%"
+  />
 </p>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SakshiSapike&hide=HTML&langs_count=8&layout=compact&title_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&hide_border=true"
+    width="60%"
+  />
+</p>
+
 
 ---
 
